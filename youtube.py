@@ -1,5 +1,5 @@
 from yt_dlp import YoutubeDL
-# in url paste here your video link :
+# paste here your video link :
 url = ""
 
 
